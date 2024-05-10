@@ -1,10 +1,10 @@
 @import url();
 :root{
-    --cor-de-fundo: #530461;
+    --cor-de-fundo: #0cffca;
     --verde: #17560b;
     --branco: #ffffff;
---botao-ativo: #3A375E;
---botao-inativo: rgba(58, 55, 94, 0.5);
+--botao-ativo: #d4481d;
+--botao-inativo: rgba(37, 23, 186, 0.5);
 --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
@@ -112,5 +112,8 @@ color: var(--verde);
     }
     
     
+
+
+
 
 
